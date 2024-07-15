@@ -2,7 +2,7 @@
   "name": "directus-extension-collection-view",
   "description": "Collections View as Directus module",
   "icon": "extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "directus",
     "directus-extension",
@@ -15,6 +15,9 @@
   "author": {
     "name": "José Varela",
     "url": "www.joselcvarela.com"
+  },
+  "repository": {
+    "url": "https://github.com/joselcvarela/directus-extension-collection-view"
   },
   "type": "module",
   "files": [
