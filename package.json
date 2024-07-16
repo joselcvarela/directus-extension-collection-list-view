@@ -1,8 +1,8 @@
 {
-  "name": "directus-extension-collection-view",
-  "description": "Collections View as Directus module",
+  "name": "directus-extension-collection-list-view",
+  "description": "Collections List View as Directus module",
   "icon": "extension",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "keywords": [
     "directus",
     "directus-extension",
@@ -18,8 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joselcvarela/directus-extension-collection-view"
+    "url": "https://github.com/joselcvarela/directus-extension-collection-list-view"
   },
+  "bugs": {
+    "url": "https://github.com/joselcvarela/directus-extension-collection-list-view/issues"
+  },
+  "license": "GPL-3.0-only",
   "type": "module",
   "files": [
     "dist"
