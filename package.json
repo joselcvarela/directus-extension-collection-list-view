@@ -2,7 +2,7 @@
   "name": "directus-extension-collection-list-view",
   "description": "Collections List View as Directus module",
   "icon": "extension",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "keywords": [
     "directus",
     "directus-extension",
