@@ -1,4 +1,4 @@
-# directus-extension-collection-view
+# directus-extension-collection-list-view
 
 Custom module extension to show the list of collections and their notes.
 When clicked, it will jump to the content of that collection
